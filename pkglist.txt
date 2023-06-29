@@ -1,0 +1,5 @@
+fish
+alacritty
+mycli
+pavucontrol
+gnome-extensions-manager
